@@ -57,7 +57,7 @@ Below are some links to study Oracle’s cloud platform, yet feel free to use ot
 During this presentation, we ask that you provide a brief summary of the Oracle Cloud Products you have investigated and that you feel are of interest and relevance. You can find the information you need from Oracle's main [Cloud Home Page](https://cloud.oracle.com/) website. From this website you can investigate Oracle's two categories of Cloud Offerings: [Platform as a Service](https://cloud.oracle.com/en_US/paas) and [Infrastructure as a Service](https://cloud.oracle.com/en_US/iaas) . Note: The job for which you are applying will focus primarily on **Platform as a Service** and **Infrastructure as a Service**.  
 
 
-***Demo Using Oracle Cloud Account***
+# Demo Using Oracle Cloud Account
 
 Please use the Oracle cloud account provided by your recruiting coordinator.
 
