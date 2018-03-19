@@ -1,7 +1,5 @@
 # Solution Engineering North American Technology Division Interviews
 
-***Note:*** This document is best viewed by clicking on this [github.io link](https://ksantosh464.github.io/Solution-Engineering-LE/articles/solution-engineering-natd/index.html
-
 ## The Role
 Solutions Engineering is more BREADTH than depth. You take the products that have already been built - extend them with your coding skills and integrate them with other products thereby building a “SOLUTION”. **This is primarily a technical job** with client interactions (60-70% technical, 40-30% communication/business).
 
